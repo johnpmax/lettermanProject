@@ -1,0 +1,14 @@
+S
+10
+// Just a short example dictionary. Although these words
+// are in alphabetical order, that is not required
+chip
+chop
+junk
+let
+leet
+shin
+ship
+shop
+shot
+stop
